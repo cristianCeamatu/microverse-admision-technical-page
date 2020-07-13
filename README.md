@@ -21,7 +21,7 @@ The page is mobile responsive and has the freecodecamp Test Suite added.
 
 To get a local copy up and running follow these simple example steps.
 
-## Setup
+### Setup
 
 Clone the project locally.
 
